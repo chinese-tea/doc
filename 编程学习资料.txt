@@ -1,14 +1,10 @@
-//************node.js********************************************
 
-https://github.com/nswbmw/N-blog
+node.js写的blog：https://github.com/nswbmw/N-blog
 
 阮一峰《ECMAScript6入门》：http://es6.ruanyifeng.com/
 
-//***********************************************************
-
-
-//************git********************************************
-
 pro git：https://git-scm.com/book/zh/v2/
 
-//***********************************************************
+socket.io教程：https://www.w3cschool.cn/socket/
+
+node.js教程：https://www.w3cschool.cn/nodejs/
